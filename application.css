@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 18px;
+	-fx-text-fill: white;
+}
+
+.root{
+	-fx-background-image: url("bkg.jpg"); 
+    -fx-font-size: 16pt;
+    -fx-font-family: "Comic Sans MS";
+    -fx-base: rgb(132, 145, 47);
+    -fx-background: rgb(225, 228, 203);
+}
+
+.button {
+	-fx-text-fill: white;
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size : 18px;
+	-fx-background-color: red;
+}
+
+.textfield {
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 18px;
+	-fx-text-fill: #333333;
+}/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
